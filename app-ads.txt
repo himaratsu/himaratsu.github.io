@@ -1,2 +1,3 @@
 google.com, pub-5042077439159662, DIRECT, f088c47fec942fa0
 tapjoy.com, e259df3bd4524bf987618f1d938d3604, DIRECT, 29e595b1aeb5904d
+rubiconproject.com, 12286, RESELLER, 0bfd66d529a55807
